@@ -1,0 +1,73 @@
+2020-09-04 18:45:22 INFO  SearchItem:12 - Initiliaze the init method...........
+2020-09-04 18:45:39 INFO  SearchItem:15 - launched the chrome browser
+2020-09-04 18:45:59 INFO  SearchItem:18 - navigated to https://www.amazon.com
+2020-09-04 18:46:13 INFO  SearchItem:24 - select the dropdown by locator key searchDropdownBox
+2020-09-04 18:46:28 INFO  SearchItem:27 - entered the text 'Core Java Books' by locator key field-keywords
+2020-09-04 18:46:30 INFO  SearchItem:30 - click on elements by locator key //input[@class='nav-input']
+2020-09-04 18:46:32 INFO  SearchItem:35 - closed the Browser
+2020-09-04 18:46:32 INFO  SearchItem:38 - close the fileinpusystem
+2020-09-06 23:46:14 INFO  SearchItem:12 - Initiliaze the init method...........
+2020-09-07 13:07:27 INFO  SearchItem:16 - Initiliaze the init method...........
+2020-09-07 13:08:15 INFO  SearchItem:16 - Initiliaze the init method...........
+2020-09-07 13:08:36 INFO  SearchItem:19 - launched the chrome browser
+2020-09-07 13:08:39 INFO  SearchItem:23 - navigated to https://www.amazon.com
+2020-09-07 13:08:40 INFO  SearchItem:30 - select the dropdown by locator key searchDropdownBox
+2020-09-07 13:08:40 INFO  SearchItem:33 - entered the text 'Core Java Books' by locator key field-keywords
+2020-09-07 13:08:41 INFO  SearchItem:36 - click on elements by locator key //input[@class='nav-input']
+2020-09-07 13:08:50 INFO  SearchItem:41 - closed the Browser
+2020-09-07 13:08:50 INFO  SearchItem:44 - close the fileinpusystem
+2020-09-07 13:56:09 INFO  SearchItem:16 - Initiliaze the init method...........
+2020-09-07 13:56:17 INFO  SearchItem:19 - launched the chrome browser
+2020-09-07 13:56:20 INFO  SearchItem:23 - navigated to https://www.amazon.com
+2020-09-07 13:56:21 INFO  SearchItem:30 - select the dropdown by locator key searchDropdownBox
+2020-09-07 13:56:24 INFO  SearchItem:33 - entered the text 'Core Java Books' by locator key field-keywords
+2020-09-07 13:56:25 INFO  SearchItem:36 - click on elements by locator key //input[@class='nav-input']
+2020-09-07 13:56:35 INFO  SearchItem:41 - closed the Browser
+2020-09-07 13:56:35 INFO  SearchItem:44 - close the fileinpusystem
+2020-09-07 17:27:35 INFO  SearchItem:16 - Initiliaze the init method...........
+2020-09-07 17:28:14 INFO  SearchItem:19 - launched the chrome browser
+2020-09-07 17:28:25 INFO  SearchItem:23 - navigated to https://www.amazon.com
+2020-09-07 17:28:26 INFO  SearchItem:30 - select the dropdown by locator key searchDropdownBox
+2020-09-07 17:28:27 INFO  SearchItem:33 - entered the text 'Core Java Books' by locator key field-keywords
+2020-09-07 17:28:38 INFO  SearchItem:36 - click on elements by locator key //input[@class='nav-input']
+2020-09-07 17:29:05 INFO  SearchItem:42 - closed the Browser
+2020-09-07 17:29:05 INFO  SearchItem:45 - close the fileinpusystem
+2020-09-07 20:01:59 INFO  SearchItem:16 - Initiliaze the init method...........
+2020-09-07 20:02:32 INFO  SearchItem:19 - launched the chrome browser
+2020-09-07 20:02:41 INFO  SearchItem:23 - navigated to https://www.amazon.com
+2020-09-07 20:02:43 INFO  SearchItem:33 - select the dropdown by locator key searchDropdownBox
+2020-09-07 20:02:44 INFO  SearchItem:36 - entered the text 'Core Java Books' by locator key field-keywords
+2020-09-07 20:03:01 INFO  SearchItem:39 - click on elements by locator key //input[@class='nav-input']
+2020-09-07 20:03:22 INFO  SearchItem:45 - closed the Browser
+2020-09-07 20:03:22 INFO  SearchItem:48 - close the fileinpusystem
+2020-09-07 20:06:34 INFO  SearchItem:16 - Initiliaze the init method...........
+2020-09-07 20:07:06 INFO  SearchItem:19 - launched the chrome browser
+2020-09-07 20:07:15 INFO  SearchItem:23 - navigated to https://www.amazon.com
+2020-09-07 20:07:23 INFO  SearchItem:33 - select the dropdown by locator key searchDropdownBox
+2020-09-07 20:07:24 INFO  SearchItem:36 - entered the text 'Core Java Books' by locator key field-keywords
+2020-09-07 20:07:26 INFO  SearchItem:39 - click on elements by locator key //input[@class='nav-input']
+2020-09-07 20:07:51 INFO  SearchItem:45 - closed the Browser
+2020-09-07 20:07:51 INFO  SearchItem:48 - close the fileinpusystem
+2020-09-07 20:17:53 INFO  SearchItem:16 - Initiliaze the init method...........
+2020-09-07 20:18:25 INFO  SearchItem:19 - launched the chrome browser
+2020-09-07 20:18:34 INFO  SearchItem:23 - navigated to https://www.amazon.com
+2020-09-07 20:18:42 INFO  SearchItem:33 - select the dropdown by locator key searchDropdownBox
+2020-09-07 20:18:42 INFO  SearchItem:36 - entered the text 'Core Java Books' by locator key field-keywords
+2020-09-07 20:18:53 INFO  SearchItem:39 - click on elements by locator key //input[@class='nav-input']
+2020-09-07 20:19:17 INFO  SearchItem:45 - closed the Browser
+2020-09-07 20:19:17 INFO  SearchItem:48 - close the fileinpusystem
+2020-09-22 09:51:13 INFO  SearchItem:16 - Initiliaze the init method...........
+2020-09-22 09:51:13 INFO  SearchItem:19 - launched the chrome browser
+2020-09-22 09:57:12 INFO  SearchItem:16 - Initiliaze the init method...........
+2020-09-22 09:57:12 INFO  SearchItem:19 - launched the chrome browser
+2020-09-22 09:59:20 INFO  SearchItem:16 - Initiliaze the init method...........
+2020-09-22 09:59:20 INFO  SearchItem:19 - launched the chrome browser
+2020-09-22 10:03:56 INFO  SearchItem:16 - Initiliaze the init method...........
+2020-09-22 10:05:01 INFO  SearchItem:16 - Initiliaze the init method...........
+2020-09-22 10:05:11 INFO  SearchItem:19 - launched the chrome browser
+2020-09-22 10:05:15 INFO  SearchItem:23 - navigated to https://www.amazon.com
+2020-09-22 10:05:16 INFO  SearchItem:33 - select the dropdown by locator key searchDropdownBox
+2020-09-22 10:05:16 INFO  SearchItem:36 - entered the text 'Core Java Books' by locator key field-keywords
+2020-09-22 10:05:16 INFO  SearchItem:39 - click on elements by locator key //input[@class='nav-input']
+2020-09-22 10:05:21 INFO  SearchItem:45 - closed the Browser
+2020-09-22 10:05:21 INFO  SearchItem:48 - close the fileinpusystem
